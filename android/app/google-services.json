@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39244255665",
+    "project_id": "usermanagergk",
+    "storage_bucket": "usermanagergk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39244255665:android:8f219d8a5a8f5221d0ed90",
+        "android_client_info": {
+          "package_name": "com.example.user_manager_gk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU9bIVs-MqDVhsZNlfgt3BPMRYWk5em6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
